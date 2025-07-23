@@ -1,0 +1,18 @@
+﻿@page
+@model ADOKaniniRazor.Pages.Students.DeleteModel
+
+<h2>Delete Student</h2>
+
+<p>Are you sure you want to delete the following student?</p>
+
+<ul>
+    <li><strong>Name:</strong> @Model.Student.Name</li>
+    <li><strong>Email:</strong> @Model.Student.Email</li>
+    <li><strong>Join Date:</strong> @Model.Student.JoiningDate.ToShortDateString()</li>
+</ul>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Student.Id" />
+    <input type="submit" value="Yes, Delete" />
+    <a href="/Students">Cancel</a>
+</form>

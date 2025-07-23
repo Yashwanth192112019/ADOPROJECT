@@ -1,0 +1,91 @@
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\images\07094426-18ef-48ca-af54-12b83b54ba0a_download.jpeg
+wwwroot\images\0835f68d-382a-40bb-b5b8-684dc031810f_download (1).jpeg
+wwwroot\images\27ee4652-cb9f-487b-86ef-d19377e92981_images (3).jpeg
+wwwroot\images\4da96d8e-21ae-49c2-9ed2-7a5d13fe3801_download (2).jpeg
+wwwroot\images\5f1645f7-0e03-4a33-a37e-c23e4f5748ec_kanini_logo.jpeg
+wwwroot\images\6a1e7998-f5a9-40f7-98c9-0d0a194d0ff9_images (2).jpeg
+wwwroot\images\8464102b-5a3e-4b70-9a6f-3b327a8a864e_download.jpeg
+wwwroot\images\866760da-f5cc-47dc-95a7-9d56b9243e50_anil-passport-size.jpg
+wwwroot\images\9217bd78-ab29-4f3b-bf88-c3af07eaf524_download (3).jpeg
+wwwroot\images\937dbcee-903d-479d-8148-63927e72de07_anil-passport-size.jpg
+wwwroot\images\940719f4-7c9c-4125-b190-c080c5b6e693_download (3).jpeg
+wwwroot\images\9c3e41bd-183e-4f52-b7c7-a96916090dc7_Screenshot 2025-07-09 133023.png
+wwwroot\images\a6f40beb-c9de-428b-aa4c-63c97620a59b_images (2).jpeg
+wwwroot\images\a91cedf4-2cac-4261-bfba-0e315d1fac0a_download (3).jpeg
+wwwroot\images\ae2e9b82-01b1-4a5e-acb7-5fc4e6c42cce_anil-passport-size.jpg
+wwwroot\images\ae630aa1-092a-4eaa-8d0a-e57ea02303cf_anil-passport-size.jpg
+wwwroot\images\b23eca36-4dae-421e-b5c1-541edbb3728e_images (3).jpeg
+wwwroot\images\b454e724-be45-4cc2-b3eb-68b6f3e8cfda_images (3).jpeg
+wwwroot\images\b62b43e8-7f7d-4e25-a927-fc177c1d5e9d_images (2).jpeg
+wwwroot\images\b7618ea5-b4ae-4ea0-ac42-0cba46aee808_download (3).jpeg
+wwwroot\images\b8184bf9-a3a3-444c-b62b-bdb6b7d859d1_download.jpeg
+wwwroot\images\ded5b52a-6743-489c-83f6-249d5b06e96a_images (2).jpeg
+wwwroot\images\e57fc26d-26f6-4a93-8e7b-728b764861d8_download (2).jpeg
+wwwroot\images\ee8f7d86-f4b2-4a2c-8223-3e19e8708717_anil-passport-size.jpg
+wwwroot\images\f22e386f-a60c-4ffe-97ea-4c2e9e3a105d_download (3).jpeg
+wwwroot\images\f3067ef4-ccac-4441-b4e8-9ea00f9a8834_images (2).jpeg
+wwwroot\images\f4285928-ff50-4d11-9748-ad72552ee9c0_anil-passport-size.jpg
+wwwroot\images\f5c3b266-68b6-4a79-a011-f1368835942b_download (1).jpeg
+wwwroot\images\f5f7554e-7411-407b-abc0-bd652d1d282d_WhatsApp Image 2025-07-10 at 15.00.00_1f594667.jpg
+wwwroot\images\fb107b47-152a-4ba2-a016-775201f15d3a_download (1).jpeg
+wwwroot\images\fb3309b5-1082-49ec-902e-de11fd85bb8e_download (3).jpeg
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

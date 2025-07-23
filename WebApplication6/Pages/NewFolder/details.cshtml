@@ -1,0 +1,117 @@
+﻿@page
+@model ADOKaniniRazor.Pages.Teachers.DetailsModel
+@{
+    ViewData["Title"] = "Teacher Details";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teacher Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .navbar {
+            background-color: #333;
+            overflow: hidden;
+            padding: 10px 0;
+        }
+        .navbar a {
+            float: left;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+        .navbar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .details-group {
+            margin-bottom: 15px;
+        }
+        .details-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .btn {
+            padding: 8px 12px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 5px;
+        }
+        .btn-back {
+            background-color: #2196F3;
+            color: white;
+        }
+        .teacher-photo {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a asp-page="/Index">Home</a>
+        <a asp-page="/Login">Login</a>
+        <a asp-page="/Signup">Sign Up</a>
+        <a asp-page="/Students">Students</a>
+        <a asp-page="/Teachers/Index">Teachers</a>
+    </div>
+
+    <div class="container">
+        <h2>Teacher Details</h2>
+        <div class="details-group">
+            <label>Photo:</label>
+            <img src="/@Model.Photo" class="teacher-photo" alt="Teacher Photo" />
+        </div>
+        <div class="details-group">
+            <label>First Name:</label>
+            <span>@Model.FirstName</span>
+        </div>
+        <div class="details-group">
+            <label>Last Name:</label>
+            <span>@Model.LastName</span>
+        </div>
+        <div class="details-group">
+            <label>Email:</label>
+            <span>@Model.Email</span>
+        </div>
+        <div class="details-group">
+            <label>Phone:</label>
+            <span>@Model.Phone</span>
+        </div>
+        <div class="details-group">
+            <label>Subject:</label>
+            <span>@Model.Subject</span>
+        </div>
+        <div class="details-group">
+            <label>Hire Date:</label>
+            <span>@Model.HireDate.ToShortDateString()</span>
+        </div>
+        <div class="details-group">
+            <label>Department:</label>
+            <span>@Model.Department</span>
+        </div>
+        <div>
+            <a asp-page="Edit" asp-route-id="@Model.Id" class="btn btn-edit">Edit</a>
+            <a asp-page="Index" class="btn btn-back">Back to List</a>
+        </div>
+    </div>
+</body>
+</html>
